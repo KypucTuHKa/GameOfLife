@@ -2,7 +2,6 @@
 #define OceanDefined
 #define MaxRows 25
 #define MaxCols 70
-#include "Constants.h"
 #include "Coordinate.h"
 
 class Cell;

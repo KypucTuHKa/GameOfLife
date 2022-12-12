@@ -138,7 +138,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cell.h" />
-    <ClInclude Include="Constants.h" />
     <ClInclude Include="Coordinate.h" />
     <ClInclude Include="Obstacle.h" />
     <ClInclude Include="Ocean.h" />
